@@ -1,0 +1,181 @@
+2021-02-07 15:08:47.984 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 15:09:12.900 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 15:09:27.254 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 15:09:57.619 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 15:18:27.565 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 15:48:06.521 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 15:48:28.948 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 15:49:24.883 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 15:50:24.451 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 15:51:50.467 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 16:02:00.686 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 16:31:09.825 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-07 16:48:40.809 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-10 23:37:35.879 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-10 23:37:56.093 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-10 23:38:22.589 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-10 23:41:19.265 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-10 23:42:34.561 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:08:34.744 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:08:46.060 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:08:55.800 | INFO     | __main__:message_handler:79 - VoX (Тот кого боится Джейк) BANNED | Cllced bots
+2021-02-11 00:09:19.539 | INFO     | __main__:message_handler:79 - VoX (Тот кого боится Джейк) BANNED | Cllced bots
+2021-02-11 00:09:22.383 | INFO     | __main__:message_handler:79 - VoX (Тот кого боится Джейк) BANNED | Cllced bots
+2021-02-11 00:09:22.679 | INFO     | __main__:message_handler:79 - VoX (Тот кого боится Джейк) BANNED | Cllced bots
+2021-02-11 00:09:22.942 | INFO     | __main__:message_handler:79 - VoX (Тот кого боится Джейк) BANNED | Cllced bots
+2021-02-11 00:09:28.862 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:09:30.041 | INFO     | __main__:message_handler:79 - VoX (Тот кого боится Джейк) BANNED | Cllced bots
+2021-02-11 00:09:53.937 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:11:08.473 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:11:39.301 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:12:12.868 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:13:16.508 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:13:58.572 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:36:20.353 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:36:51.465 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:37:21.272 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:37:46.901 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:39:21.958 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:39:51.715 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:41:20.308 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:41:54.031 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 00:42:21.168 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 11:41:01.952 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 11:42:48.429 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 11:48:05.507 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:18:10.874 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:20:36.602 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:23:26.768 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:33:09.993 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:41:45.552 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:45:54.668 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:50:40.375 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:51:46.986 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:52:22.733 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:53:28.218 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 12:56:59.419 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 13:00:25.357 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 13:03:23.858 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 13:04:27.122 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 13:04:59.866 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 13:06:15.778 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 13:07:38.813 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 13:11:26.524 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 13:22:34.649 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 15:22:48.052 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 15:33:08.209 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 15:33:44.953 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 15:34:54.185 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 16:17:09.786 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 16:32:51.463 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-11 16:49:42.224 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:02:37.575 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:03:31.900 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:04:16.568 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:05:36.518 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:06:45.868 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:07:55.500 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:08:38.188 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:09:19.983 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:10:06.622 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:11:22.124 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 13:15:43.132 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:05:03.483 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:07:27.608 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:09:56.931 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:12:22.273 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:13:29.053 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:15:05.631 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:16:04.247 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:16:57.800 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:20:32.584 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:21:39.506 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:23:10.817 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:23:54.694 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:26:02.306 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:27:19.830 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:27:48.896 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:29:12.519 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:29:38.561 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:29:57.917 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:31:05.450 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:32:57.209 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:34:35.161 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:35:42.911 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:45:46.634 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:46:52.207 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:47:43.872 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:48:18.478 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:49:29.395 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:51:42.477 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:53:54.091 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:55:20.644 | ERROR    | __main__:message_handler:84 - ERROR: 'NoneType' object is not subscriptable
+2021-02-13 14:55:23.100 | ERROR    | __main__:message_handler:84 - ERROR: 'NoneType' object is not subscriptable
+2021-02-13 14:55:24.154 | ERROR    | __main__:message_handler:84 - ERROR: 'NoneType' object is not subscriptable
+2021-02-13 14:55:24.803 | ERROR    | __main__:message_handler:84 - ERROR: 'NoneType' object is not subscriptable
+2021-02-13 14:56:53.903 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:57:53.772 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:58:20.790 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 14:59:19.902 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:00:01.762 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:03:35.445 | ERROR    | __main__:message_handler:84 - ERROR: 'NoneType' object is not subscriptable
+2021-02-13 15:09:51.572 | ERROR    | __main__:message_handler:84 - ERROR: 'NoneType' object is not subscriptable
+2021-02-13 15:09:52.998 | ERROR    | __main__:message_handler:84 - ERROR: 'NoneType' object is not subscriptable
+2021-02-13 15:09:54.033 | ERROR    | __main__:message_handler:84 - ERROR: 'NoneType' object is not subscriptable
+2021-02-13 15:13:40.972 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:15:10.451 | ERROR    | __main__:message_handler:84 - ERROR: 'NoneType' object is not subscriptable
+2021-02-13 15:15:12.133 | ERROR    | __main__:message_handler:84 - ERROR: 'NoneType' object is not subscriptable
+2021-02-13 15:15:29.154 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:18:03.935 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:21:36.178 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:23:49.786 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:25:56.708 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:26:25.418 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:27:37.691 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:29:48.143 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:33:06.204 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:34:30.797 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:36:53.016 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:43:53.944 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:46:56.988 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:53:03.390 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 15:53:52.741 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:27:38.646 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:30:44.673 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:32:47.786 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:33:13.150 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:33:27.943 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:34:36.841 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:35:04.763 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:35:28.823 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:35:53.696 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:36:20.777 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:36:37.285 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:36:53.496 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:42:50.156 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:53:30.730 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:54:55.143 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 17:58:21.622 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:06:02.477 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:14:37.921 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:17:31.386 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:18:09.391 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:18:43.129 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:24:01.508 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:28:49.732 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:29:40.491 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:32:54.826 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:35:34.944 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:37:14.827 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:40:07.480 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 18:47:25.008 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 07:52:59.595 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 10:31:35.131 | ERROR    | __main__:handler_call:108 - ERROR: local variable 'mes' referenced before assignment
+2021-02-13 10:31:38.350 | ERROR    | __main__:handler_call:108 - ERROR: local variable 'mes' referenced before assignment
+2021-02-13 10:31:47.225 | ERROR    | __main__:handler_call:108 - ERROR: local variable 'mes' referenced before assignment
+2021-02-13 22:35:14.056 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 22:35:37.220 | ERROR    | __main__:handler_call:108 - ERROR: local variable 'mes' referenced before assignment
+2021-02-13 22:39:09.878 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 22:39:54.883 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 22:42:18.143 | INFO     | utils.logger:<module>:6 - START LOGGER
+2021-02-13 22:45:41.513 | INFO     | utils.logger:<module>:6 - START LOGGER
